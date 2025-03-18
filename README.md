@@ -9,5 +9,5 @@ This game uses the Arrow Keys to move around the tiles. <br> When you move the t
 # Some Small Ideas
 - A fully working Highscore system that creates a file to store the high score in <br>
 - The game gives you a code to save your game, which you can then input into the game to restore your progress <br>
-- A simple undo button that can undo your last move. You will probably get 10 undos in one game
+- A simple undo button that can undo your last move. You will probably get 10 chances to undo your move in one game
 
